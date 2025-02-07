@@ -1,0 +1,13 @@
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\bin\Debug\DebugWindowEnabler.dll
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\bin\Debug\DebugWindowEnabler.pdb
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\bin\Debug\DebugWindowEnabler.xml
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.vbprojAssemblyReference.cache
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.Resources.resources
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.vbproj.GenerateResource.cache
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.vbproj.CoreCompileInputs.cache
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.dll
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.xml
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.pdb
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\bin\Debug\Sebs SW CV.exe
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.Form1.resources
+C:\Users\Sebastian\source\repos\DebugWindowEnabler\DebugWindowEnabler\obj\Debug\DebugWindowEnabler.vbproj.CopyComplete
