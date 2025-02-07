@@ -5,6 +5,6 @@ Can a Debug Window in Sebs SW CV using one DLL.
 ## Unsupported versions
 Versions 3.0 and older does not have a Debug Window.
 ## Debug Window does not exist on 3.5
-Insiders of Sebs SW CV have said to me that the Form that is needed does not exist on builds newer then 3.5.0.456.
+Use [DebugWindowRewritten](https://github.com/Alongusernamefornothing/DebugWindowRewritten) on 3.5.* and newer.
 ## How to use
 This part of the readme file is not done.
